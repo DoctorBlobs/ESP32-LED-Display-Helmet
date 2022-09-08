@@ -6,9 +6,13 @@
  
 # Parts:
 ·	ESP32 MINI Matrix Shield (Kit or Assembled) - https://store.eplop.co.uk/product/esp32-matrix-shield-mini-32/?attribute_assembly=Kit
+
 ·	LED Matrix (64x64) - https://nl.aliexpress.com/item/1005004320840173.html
+
 ·	ESP32 MINI - https://nl.aliexpress.com/item/32858054775.html
-·	SD Card Module - https://nl.aliexpress.com/item/1005003327874829.
+
+·	SD Card Module - https://nl.aliexpress.com/item/1005003327874829
+
 
 
 # Credits:
